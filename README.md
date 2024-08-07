@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **react, node, express**
 
-- 📫 How to reach me **kaali001online@gmail.com**
+- 📫 How to reach me **kali001online@gmail.com**
 
 - ⚡ Fun fact **Bugs likes me.**
 
