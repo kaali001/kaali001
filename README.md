@@ -101,15 +101,15 @@
 <br>
 
 
-## 🏅 GSSOC(24) Badges:
+## 🏅 GirlScript Summer of code(24) Badges:
 <div align='left'>
   <a href="https://gssoc.girlscript.tech/leaderboard">
- <p><img align="left" src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" /></p> 
- <p><img align="left" src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" /></p> 
- <p><img align="left" src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" /></p> 
- <p><img align="left" src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" /></p>
- <p><img align="left" src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" /></p>
- <p><img align="left" src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" /></p>
+ <p><img align="left" src="https://gssoc.girlscript.tech/badges/postman.png" width="100px" height="100px" /></p> 
+ <p><img align="left" src="https://gssoc.girlscript.tech/badges/1.png" width="100px" height="100px" /></p> 
+ <p><img align="left" src="https://gssoc.girlscript.tech/badges/2.png" width="100px" height="100px" /></p> 
+ <p><img align="left" src="https://gssoc.girlscript.tech/badges/3.png" width="100px" height="100px" /></p>
+ <p><img align="left" src="https://gssoc.girlscript.tech/badges/4.png" width="100px" height="100px" /></p>
+ <p><img align="left" src="https://gssoc.girlscript.tech/badges/5.png" width="100px" height="100px" /></p>
   
 </a>
 </div>
