@@ -101,8 +101,17 @@
 <br>
 
 
+## 🏅 Hacktoberfest 2024 Badges:
+<div align="left">
+   <a href="https://holopin.io/@kaali001">
+ <img  align="center" height="200em" src="https://holopin.me/kaali001"/>
+ </a>
+ </div>
+<br>
+
+
 ## 🏅 GirlScript Summer of code(24) Badges:
-<div align='left'>
+<div align='center'>
   <a href="https://gssoc.girlscript.tech/leaderboard">
  <p><img align="left" src="https://gssoc.girlscript.tech/badges/postman.png" width="100px" height="100px" /></p> 
  <p><img align="left" src="https://gssoc.girlscript.tech/badges/1.png" width="100px" height="100px" /></p> 
@@ -113,5 +122,6 @@
   
 </a>
 </div>
+<br>
 <br>
 
