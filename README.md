@@ -1,19 +1,19 @@
 
-![logo](https://github.com/user-attachments/assets/ccd7fe79-c601-4fdc-9d04-2b593fca18c8)
+<!--![logo](https://github.com/user-attachments/assets/ccd7fe79-c601-4fdc-9d04-2b593fca18c8)-->
 
 
-<h1 align="center">Hi 👋, I'm kaali001</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h1 align="center">Hi 👋, I'm Satyendra</h1>
+<h3 align="center">A Fullstack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/41521bad-f9dc-4cb3-a8d9-af79e11e7719">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaali001&label=Profile%20views&color=0e75b6&style=flat" alt="kaali001" /> </p>
 
-- 🌱 I’m currently learning **Virtualization, Containerizations**
+- 🌱 I’m currently working on **WebRTC, Socket.io**
 
 - 👯 I’m looking to collaborate on **Web Application Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kaali001/](https://github.com/kaali001/)
 
-- 💬 Ask me about **react, node, express**
+- 💬 Ask me about ** Development, Design, Machine Learning**
 
 - 📫 How to reach me **kali001online@gmail.com**
 
@@ -25,7 +25,7 @@
 <a href="https://x.com/satyendra0_0" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href = "mailto:kali001online@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"  alt="gmail-logo"></a>
 <a href="https://www.linkedin.com/in/satyendra-kumar-0802ab20a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/kaali001" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<!--<a href="https://github.com/kaali001" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> -->
 
 </div>
 <br>
@@ -82,20 +82,20 @@
 
 ## 📊 GitHub Stats:
 
-<p><img align="left"  height="190em" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaali001&show_icons=true&locale=en&layout=compact" alt="kaali001" /></p>
 
-<p>&nbsp;<img align="center" width="450em" height="190em" src="https://github-readme-stats.vercel.app/api?username=kaali001&show_icons=true&locale=en" alt="kaali001" /></p>
 
-<p><img align="center"  height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=kaali001" alt="kaali001" /></p>
+<p><img align="left" width="450em" height="190em" src="https://github-readme-stats.vercel.app/api?username=kaali001&theme=transparent&show_icons=true&locale=en" alt="kaali001" /></p>
 
+<p><img height="190em"  src="https://nirzak-streak-stats.vercel.app?user=kaali001&theme=transparent&fire=EB5C16&ring=EBD353" alt="GitHub Streak" /></p>
 
 
 ## 📊 Statistics:
 <div align="left">
 <a href="https://github.com/kaali001">
-<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaali001&show_icons=true&locale=en" height="180em" /> </p>
-<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaali001&show_icons=true&locale=en"  height="180em" /> </p>
-<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaali001&show_icons=true&locale=en" height="180em" /> </p>
+ <p><img align="left"  height="185em" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaali001&theme=transparent&show_icons=true&locale=en&layout=compact" alt="kaali001" /></p>
+<!--<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaali001&show_icons=true&locale=en" height="180em" /> </p>
+<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaali001&show_icons=true&locale=en"  height="180em" /> </p> -->
+<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaali001&theme=transparent&show_icons=true&locale=en" height="185em" /> </p>
 </a>
 </div>
 <br>
