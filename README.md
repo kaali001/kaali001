@@ -82,22 +82,23 @@
 
 ## 📊 GitHub Stats:
 
+<div>
 
+<img align="left" width="380em" height="190em" src="https://github-readme-stats.vercel.app/api?username=kaali001&theme=transparent&show_icons=true&locale=en" alt="kaali001" />
 
-<p><img align="left" width="400em" height="190em" src="https://github-readme-stats.vercel.app/api?username=kaali001&theme=transparent&show_icons=true&locale=en" alt="kaali001" /></p>
-
-<p><img height="170em"  src="https://nirzak-streak-stats.vercel.app?user=kaali001&theme=transparent&fire=EB5C16&ring=EBD353" alt="GitHub Streak" /></p>
+<img  width="470em"  height="160em"  src="https://nirzak-streak-stats.vercel.app?user=kaali001&theme=transparent&fire=EB5C16&ring=EBD353" alt="GitHub Streak" />
+</div>
 
 
 ## 📊 Statistics:
 
-
- <p><img align="left" width="300em" height="185em" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaali001&theme=transparent&show_icons=true&locale=en&layout=compact" alt="kaali001" /></p>
+<div >
+ <img align="left" width="300em" height="185em" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaali001&theme=transparent&show_icons=true&locale=en&layout=compact" alt="kaali001" />
 <!--<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaali001&show_icons=true&locale=en" height="180em" /> </p>
 <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaali001&show_icons=true&locale=en"  height="180em" /> </p> -->
-<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaali001&theme=transparent&show_icons=true&locale=en" height="185em" /> </p>
-</a>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaali001&theme=transparent&show_icons=true&locale=en" width="500em" height="190em" /> 
 
+</div>
 <br>
 
 
