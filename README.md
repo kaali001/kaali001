@@ -84,7 +84,7 @@
 
 <div>
 
-<img align="left" width="380em" height="190em" src="https://github-readme-stats.vercel.app/api?username=kaali001&theme=transparent&show_icons=true&locale=en" alt="kaali001" />
+<img align="left" width="370em" height="190em" src="https://github-readme-stats.vercel.app/api?username=kaali001&theme=transparent&show_icons=true&locale=en" alt="kaali001" />
 
 <img  width="450em"  height="160em"  src="https://nirzak-streak-stats.vercel.app?user=kaali001&theme=transparent&fire=EB5C16&ring=EBD353" alt="GitHub Streak" />
 </div>
