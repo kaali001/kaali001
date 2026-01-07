@@ -84,7 +84,7 @@
 
 <div>
 
-<img align="left" width="370em" height="190em" src="https://github-readme-stats.vercel.app/api?username=kaali001&theme=transparent&show_icons=true&locale=en" alt="kaali001" />
+<img align="left" width="370em" height="190em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaali001&theme=transparent&show_icons=true&locale=en" alt="kaali001" />
 
 <img  width="450em"  height="160em"  src="https://nirzak-streak-stats.vercel.app?user=kaali001&theme=transparent&fire=EB5C16&ring=EBD353" alt="GitHub Streak" />
 </div>
@@ -93,7 +93,7 @@
 ## 📊 Statistics:
 
 <div >
- <img align="left" width="300em" height="185em" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaali001&theme=transparent&show_icons=true&locale=en&layout=compact" alt="kaali001" />
+ <img align="left" width="300em" height="185em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaali001&theme=transparent&show_icons=true&locale=en&layout=compact" alt="kaali001" />
 <!--<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaali001&show_icons=true&locale=en" height="180em" /> </p>
 <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaali001&show_icons=true&locale=en"  height="180em" /> </p> -->
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaali001&theme=transparent&show_icons=true&locale=en" width="500em" height="190em" /> 
@@ -114,12 +114,12 @@
 ## 🏅 GirlScript Summer of code(24) Badges:
 <div align='center'>
   <a href="https://gssoc.girlscript.tech/leaderboard">
- <p><img align="left" src="https://gssoc.girlscript.tech/badges/postman.png" width="100px" height="100px" /></p> 
- <p><img align="left" src="https://gssoc.girlscript.tech/badges/1.png" width="100px" height="100px" /></p> 
- <p><img align="left" src="https://gssoc.girlscript.tech/badges/2.png" width="100px" height="100px" /></p> 
- <p><img align="left" src="https://gssoc.girlscript.tech/badges/3.png" width="100px" height="100px" /></p>
- <p><img align="left" src="https://gssoc.girlscript.tech/badges/4.png" width="100px" height="100px" /></p>
- <p><img align="left" src="https://gssoc.girlscript.tech/badges/5.png" width="100px" height="100px" /></p>
+ <p><img align="left" src="https://gssoc-website-new-lovat.vercel.app/badges/postman.png" width="100px" height="100px" /></p> 
+ <p><img align="left" src="https://gssoc-website-new-lovat.vercel.app/badges/1.png" width="100px" height="100px" /></p> 
+ <p><img align="left" src="https://gssoc-website-new-lovat.vercel.app/badges/2.png" width="100px" height="100px" /></p> 
+ <p><img align="left" src="https://gssoc-website-new-lovat.vercel.app/badges/3.png" width="100px" height="100px" /></p>
+ <p><img align="left" src="https://gssoc-website-new-lovat.vercel.app/badges/4.png" width="100px" height="100px" /></p>
+ <p><img align="left" src="https://gssoc-website-new-lovat.vercel.app/badges/5.png" width="100px" height="100px" /></p>
   
 </a>
 </div>
